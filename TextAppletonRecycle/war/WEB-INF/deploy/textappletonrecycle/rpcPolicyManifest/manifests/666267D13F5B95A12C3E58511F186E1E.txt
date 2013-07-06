@@ -1,0 +1,2 @@
+serviceClass: org.zoot.smsapl.client.GreetingService
+path: 60FB7720BE4B032C78248573BC318067.gwt.rpc
